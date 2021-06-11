@@ -1,0 +1,37 @@
+﻿home_team,home_rank,away_team,away_rank
+Turkey,29,Italy,7
+Wales,17,Switzerland,13
+Denmark,10,Finland,54
+Belgium,1,Russia,38
+England,4,Croatia,14
+Austria,23,N. Macedonia,62
+Netherlands,16,Ukraine,24
+Scotland,44,Czech Rep.,40
+Poland,21,Slovakia,36
+Spain,6,Sweden,18
+Hungary,37,Portugal,5
+France,2,Germany,12
+Finland,54,Russia,38
+Turkey,29,Wales,17
+Italy,7,Switzerland,13
+Ukraine,24,N. Macedonia,62
+Denmark,10,Belgium,1
+Netherlands,16,Austria,23
+Sweden,18,Slovakia,36
+Croatia,14,Czech Rep.,40
+England,4,Scotland,44
+Hungary,37,France,2
+Portugal,5,Germany,12
+Spain,6,Poland,21
+Switzerland,13,Turkey,29
+Italy,7,Wales,17
+N. Macedonia,62,Netherlands,16
+Ukraine,24,Austria,23
+Russia,38,Denmark,10
+Finland,54,Belgium,1
+Croatia,14,Scotland,44
+Czech Rep.,40,England,4
+Slovakia,36,Spain,6
+Sweden,18,Poland,21
+Portugal,5,France,2
+Germany,12,Hungary,37
